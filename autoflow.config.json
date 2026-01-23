@@ -1,0 +1,8 @@
+{
+  "projectName": "test-autoflow",
+  "gitRepo": "https://github.com/chirag-parmar16/test-autoflow.git",
+  "domain": "test-autoflow.chirag-dev.online",
+  "appPort": "3000",
+  "deploymentType": "static",
+  "mode": "domain"
+}
